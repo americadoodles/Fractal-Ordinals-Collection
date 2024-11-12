@@ -1,0 +1,1802 @@
+[
+    {
+        "id": "9b6919ab76e89de9965d9e028e7a5af2525897b20b5052ed6720a8e98ad081dbi0",
+        "meta": {
+            "name": "Umbrix",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can control and manipulate shadows to create illusions and distort space."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the dark, I am infinite."
+                }
+            ]
+        }
+    },
+    {
+        "id": "b7328d77c60bffbcbdef92f18abd4dcfa4d804a78ea22840561e837ec80d8c8ai0",
+        "meta": {
+            "name": "Nyxaris",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nyxara"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Creates shifting spatial illusions and shadow portals."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Reality bends in the shadows."
+                }
+            ]
+        }
+    },
+    {
+        "id": "767a123afa54f4b55f165a2d9c9147ac8803248504fb6003fc6bb25eea4e792ai0",
+        "meta": {
+            "name": "Flamiris",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Ignis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Wields immense fire energy, able to regenerate through flames."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The flame never dies, and neither do I."
+                }
+            ]
+        }
+    },
+    {
+        "id": "2341a21b0e6758e944c9d7c6ed94989c3b40a9982f537eab911a517db892cafdi0",
+        "meta": {
+            "name": "Infernarus",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Ignis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls volcanic fire and magma, unleashing destructive power."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Born from fire, forged in flames."
+                }
+            ]
+        }
+    },
+    {
+        "id": "0154a9a93909703ee7827e8a2c90f4cabfc00fdbc1124076a5927d96516ff902i0",
+        "meta": {
+            "name": "Crystarion",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Xylox"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates crystals to amplify energy and refract light."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Within every crystal lies a universe of power."
+                }
+            ]
+        }
+    },
+    {
+        "id": "229c88b22f94db4709de31cacecdb1d28409da39630bc71b42c2e51551f6bf0fi0",
+        "meta": {
+            "name": "Glacionis",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Glacirian"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can summon icy storms and form crystalline defenses."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Cold, unyielding, yet full of beauty."
+                }
+            ]
+        }
+    },
+    {
+        "id": "1cb96919e53dcfd7b18855fd7e2d835940f84173383d39bdb1c5959e0e052c88i0",
+        "meta": {
+            "name": "Nebulon",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Velarion"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls nebula gases and cosmic dust to create illusions."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The stars are my allies, the cosmos my canvas."
+                }
+            ]
+        }
+    },
+    {
+        "id": "8bac546ede73b4390393243336555294c6c4f71f1f5f79eaff00dae04f907d0fi0",
+        "meta": {
+            "name": "Mecharite",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Mecharis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Superior strength and intellect, enhanced by cybernetic implants."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Strength is my core, knowledge my circuit."
+                }
+            ]
+        }
+    },
+    {
+        "id": "93912b67d4f41b748e7724048219d88d05cfa088a3a730c7df5708aa7b796efci0",
+        "meta": {
+            "name": "Xyon",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "BORG"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Assimilates other beings to acquire their abilities and knowledge."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "You will be part of the collective. Resistance is futile."
+                }
+            ]
+        }
+    },
+    {
+        "id": "da34d311c34d25642a10d79fad9d80cd28c4ff281dfffca34fd4955226add9eei0",
+        "meta": {
+            "name": "Elynos",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Fractalis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates fractals to create limitless energy patterns."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Infinity within, energy without."
+                }
+            ]
+        }
+    },
+    {
+        "id": "5c60082835aaedee864f3eaaf06117fc730ee22928419612b35c7a9a1a7a2471i0",
+        "meta": {
+            "name": "Vaporous Phantasm",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Spectralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can manipulate light and mist, creating spectral illusions."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I drift between worlds, seen and unseen."
+                }
+            ]
+        }
+    },
+    {
+        "id": "179ef7c1eefce332e6871133ca77c4bb74cc8a0de8a6c437bc675460961a26a5i0",
+        "meta": {
+            "name": "Floralith",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Floralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls flora, creating powerful vines and blossoms."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In every bloom, there is power."
+                }
+            ]
+        }
+    },
+    {
+        "id": "547117c20ec5f68201a234b4f00605390379d083f41f60168a221ef317c92264i0",
+        "meta": {
+            "name": "Aurelis",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Lunaris"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Harnesses the power of the moon to create radiant energy."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the light in the darkest night."
+                }
+            ]
+        }
+    },
+    {
+        "id": "74c3e659c41c51fc8508536b4e831865c3c2fe4658d5d67efbfea02b40953dd9i0",
+        "meta": {
+            "name": "Nyxion",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Obscurium"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Blends into dark matter, controlling the forces of darkness."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "From the void, I rise."
+                }
+            ]
+        }
+    },
+    {
+        "id": "9415e862e56c2ecea3817dfb4df26f727fbf028e5147840b288342bb0c77e78ci0",
+        "meta": {
+            "name": "Zylar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Astralos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can manipulate light and cosmic forces."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Serenity is the key to the cosmos."
+                }
+            ]
+        }
+    },
+    {
+        "id": "758e6055277111694a7829a0acc447974bb9b0b29522d23f6405a227a127fb37i0",
+        "meta": {
+            "name": "Drexon",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Subterra"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Master of survival, uses strength and cunning."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Only the strong survive in the depths."
+                }
+            ]
+        }
+    },
+    {
+        "id": "81295c2c2478f08ac2f9e63a72783a830e56e3de62ab5c843bfd1e629ab75b9ai0",
+        "meta": {
+            "name": "Vilmor",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Astralos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates light and cosmic forces."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the light, there is peace."
+                }
+            ]
+        }
+    },
+    {
+        "id": "179ef7c1eefce332e6871133ca77c4bb74cc8a0de8a6c437bc675460961a26a5i0",
+        "meta": {
+            "name": "Sovrin",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Silvorn"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Master of energy manipulation."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Strength and wisdom are my allies."
+                }
+            ]
+        }
+    },
+    {
+        "id": "6ae027265801fecc41ff030b4419c816aac64830f977ddeea42d121beed1331ai0",
+        "meta": {
+            "name": "Zamora",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Silvorn"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Master of camouflage and agility."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Strength lies in adaptability."
+                }
+            ]
+        }
+    },
+    {
+        "id": "fc8fc6d136ca4a4e0b1df520f04300e05591f5956e2ffd6227b70148c03038fdi0",
+        "meta": {
+            "name": "Juvessa",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Zephyros"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Built for speed and precision."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Speed is the essence of survival."
+                }
+            ]
+        }
+    },
+    {
+        "id": "e8c81f32ce47b3391796c62af4562f7c05412da8538be684032c0bafa23fba66i0",
+        "meta": {
+            "name": "Skrillox",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Zephyros"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Rides the powerful winds with strength and fluidity."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The winds are my allies."
+                }
+            ]
+        }
+    },
+    {
+        "id": "27557dfe62cab1b0693cb4fb16a66df8dcc8e5b667fc18317d9fd968b9864a9ci0",
+        "meta": {
+            "name": "Yarvok",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Braxil"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Unmatched strength."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the force of Braxil."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c046c824dd1b2b83c4d426561458cc6c9ec6fbab142ec8eaf6576431a6691113i0",
+        "meta": {
+            "name": "Aeloria",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Aetheron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates energy to create mesmerizing displays."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The beauty of Aetheron flows through me."
+                }
+            ]
+        }
+    },
+    {
+        "id": "087d22de3349248528bf98db83f986bfdac8f90c2c0af37ea8423077e5b95f12i0",
+        "meta": {
+            "name": "Okloni",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates shadows, create spatial illusions, blend into darkness, and teleport through shadowy portals."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the shadows, I am unseen. In the light, I am unstoppable"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7517179f998c0d895d4f18a6acfd77c25883946d0ea2e966f2a2f3eada9fa756i0",
+        "meta": {
+            "name": "Obenyl",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nyxara"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Blends into shadows, reshape their form, and harness dark energy to phase in and out of existence."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "From the darkness, I emerge, unseen yet ever present."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c36121801351f9307830589eebd85dab7d487d2bb3f92563fcbcb436f49d83dfi0",
+        "meta": {
+            "name": "Clisto",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Xylox"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls crystals, refract light into energy beams, and harness crystal energy to amplify powers."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the prism through which light becomes power."
+                }
+            ]
+        }
+    },
+    {
+        "id": "aecb50448ae111abdf228b77fb9057a070ed4029928ad86ba0e1c798a20bea7ai0",
+        "meta": {
+            "name": "Linst",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Glacirian"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates ice and snow, create structures, summon blizzards, and absorb cold energy to control frozen elements."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the cold, I find strength. In the frost, I am reborn."
+                }
+            ]
+        }
+    },
+    {
+        "id": "4c1f77948e921317546530534f3704b43ffb6264ce5ae92f5029b97473beb1d0i0",
+        "meta": {
+            "name": "Blios",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Velarion"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls nebula gases, phase in and out, create illusions, and travel through space by merging with nebula clouds."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the nebula, ever-shifting, ever-present."
+                }
+            ]
+        }
+    },
+    {
+        "id": "621e77b6229fd4c855d7d3ac334e658e1ba1c38d02bf9bf7bcae32a8060fd329i0",
+        "meta": {
+            "name": "Xylaris",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Velarion"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls cosmic energy, bends nebula gases and stardust, creates energy fields, and forms light illusions."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The cosmos flows through me, as boundless as the stars."
+                }
+            ]
+        }
+    },
+    {
+        "id": "e8ef878a467da6d103e5354dffb5d18d4ef745fe11beeaca7e0b55a83570cabei0",
+        "meta": {
+            "name": "Tireos",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Mecharis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls machines, adapt its form, and optimize technology for protection and efficiency."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Innovation is the path to dominance."
+                }
+            ]
+        }
+    },
+    {
+        "id": "652edf7b97efac32f86307362b0acac2a5f39f2c40f1ed06810a1b7be6aa11b1i0",
+        "meta": {
+            "name": "ElAnaa",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Spectralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates light and shadows, creating illusions, shifting between visibility and invisibility, and blending into the mists of Spectralis."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Where light fades, I rise."
+                }
+            ]
+        }
+    },
+    {
+        "id": "5fec883dd4ad4ede40f009e9c08775943bc27c816ae424bcbcf315bb719db807i0",
+        "meta": {
+            "name": "Lixyro",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Floralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates and control plant life."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the bloom that guards the forest."
+                }
+            ]
+        }
+    },
+    {
+        "id": "cecf36d8bfc7f25a78a1eb76ffc93db3487a5bb0d522031f385a747ecb097192i0",
+        "meta": {
+            "name": "Sylthar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Floralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Corrupts planetary life, manipulating vines and roots to ensnare and destroy."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Where beauty once thrived, only destruction remains."
+                }
+            ]
+        }
+    },
+    {
+        "id": "d6c9da1ff2ffe479d743e841a07c66b56e2a2024a18b0d6797cc3130d6ad6b09i0",
+        "meta": {
+            "name": "Korsiro",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Obscurium"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates dark matter"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the void, I am limitless!"
+                }
+            ]
+        }
+    },
+    {
+        "id": "674fb7930dbb7eeb9de09ca12a589ecd3dc5a31242f5961574e03a13178d7e0fi0",
+        "meta": {
+            "name": "Vorpax",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Subterra"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates energy to create nightmares."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Fear The Void !"
+                }
+            ]
+        }
+    },
+    {
+        "id": "75e93471d2ed9c7ac5b57f736fba7bd4ea006cd7d61b590e4bf1680adae1ff54i0",
+        "meta": {
+            "name": "Lord Vextran",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Subterra"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Ruler of Subterra, Controls cosmic energy and dark matter."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Subterra Shall Prevail. under my rule !"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8ac32e4a67e1dcf6a91e4a45985a2eee90e57ca5ba92bc101bf2c2c6d164075fi0",
+        "meta": {
+            "name": "Mokhtar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Swift scout, protector of Nocturnis sacred tomb."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "There are shadows in the desert ."
+                }
+            ]
+        }
+    },
+    {
+        "id": "e118842606cd37bc4b8d9f5ea43100ce4c832ea864611a0eef8538151ba8cc0bi0",
+        "meta": {
+            "name": "Amira",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates shadow energy, dissolving into darkness and creating powerful shadow constructs for defense or attack."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In shadows, I find my strength."
+                }
+            ]
+        }
+    },
+    {
+        "id": "267494a7fa602b31c100f83976c13a46a25221b567f1747a9ed190b65f2d7ffai0",
+        "meta": {
+            "name": "Lomira",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Luminex"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls radiant energy for healing and defense."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the light that guides through the void."
+                }
+            ]
+        }
+    },
+    {
+        "id": "3dc4b20a8cad1381a07be2a9c5620fb2eeb52c01c23db53264ec84527536cf66i0",
+        "meta": {
+            "name": "Lyrith",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Volturis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates energy to control chaos and reshape reality."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Through chaos, I shape destiny."
+                }
+            ]
+        }
+    },
+    {
+        "id": "ff7940d82deac2f10da5ab2621dcf5d047871775dd6c58b126cd492763f23187i0",
+        "meta": {
+            "name": "Unite 13",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Mecharis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Excels in precision, adapting and executing tasks with flawless efficiency."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Perfection is my directive"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a3d39fd13f6cfa753ee448e4a293e4b88655e0c81559c6fb5efffe36bb4aafa9i0",
+        "meta": {
+            "name": "Pyroclast",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Ignis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls molten rock and can withstand extreme heat."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am forged in fire, unbroken by time."
+                }
+            ]
+        }
+    },
+    {
+        "id": "3a2a4e265829244da420e81a0672b8c47c6838c56940a81c03481acbc37cb61ci0",
+        "meta": {
+            "name": "Stormeck",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Oviron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls lightning and glides through storms."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storm, and through the lightning, I strike."
+                }
+            ]
+        }
+    },
+    {
+        "id": "28e1177a324d6103e31d088b266a1d4fc070957ead73636b84c9163f504c86fdi0",
+        "meta": {
+            "name": "Tectrovas",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Oviron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Senses and controls seismic vibrations."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I stand unshaken, while the world trembles."
+                }
+            ]
+        }
+    },
+    {
+        "id": "b5f4a594393bfd33d267ef60785430aa3066d5d8012c5600d399bbcf5f38f427i0",
+        "meta": {
+            "name": "Terrakon",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Oviron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can manipulate the ground itself."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The earth obeys my will, while others falter."
+                }
+            ]
+        }
+    },
+    {
+        "id": "b3c263cda965858aa8e85ed78136d67ae7ae20e790eb6151ec7c688e918ff05ei0",
+        "meta": {
+            "name": "Volcryn",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Ignis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls shaping it into deadly streams or solidifying it into powerful traps."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the fire that never dies, the flame that consumes all."
+                }
+            ]
+        }
+    },
+    {
+        "id": "2913ed0a314f0008fb2997bcef3a6fb84752e0cad4ea843b19835bc117673963i0",
+        "meta": {
+            "name": "Ashraxis",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Oviron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can control ash storms, cloak itself in smoke, and suffocate enemies."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "From the shadows of ash, I rise and fade."
+                }
+            ]
+        }
+    },
+    {
+        "id": "26f6e593b2a22ab09764789fa298b227cc5a7593629942317d3285e6259051bfi0",
+        "meta": {
+            "name": "Eclipseon",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Oviron"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Commands storms and vanishes into smoke, striking from the void."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the silence of the storm, shadows obey my will."
+                }
+            ]
+        }
+    },
+    {
+        "id": "cd845d4c19338c48d985111cf10eba93f639ad67f1bc39abe6277ea35b6c4f49i0",
+        "meta": {
+            "name": "Zylenar ",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Ignis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates molten core energy, creating seismic waves and powerful barriers to defend underground life."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The molten heart of Ignis is my strength, and through me, it will never be broken."
+                }
+            ]
+        }
+    },
+    {
+        "id": "598a23f4bfb13d10eeafc402d89fd1130db9f180e4db3a71dcb2d9a6cf88bb74i0",
+        "meta": {
+            "name": "Giana",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls energy flows to create protective barriers and maintain the balance"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Harmony is the pulse of the universe, and I am its guardian."
+                }
+            ]
+        }
+    },
+    {
+        "id": "45bda7aa1a10ccf8bf9f469a114369b10319b2be7f3cc5c3800b534a83a7479fi0",
+        "meta": {
+            "name": "Frinadis",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Harnessing dark energy to unleash devastating strikes. "
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Victory belongs to those who fear nothing... including destruction."
+                }
+            ]
+        }
+    },
+    {
+        "id": "23de58380c431c8cb9463312fc3f7520220ef7cebaf9772a312249cfda88f040i0",
+        "meta": {
+            "name": "Croul",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controlsdark lightning, wreaks havoc on all who dare to stand in his way. "
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Fear the storm... for it obeys only me."
+                }
+            ]
+        }
+    },
+    {
+        "id": "418ebe31150519bf7de5d56c4d6761b1acd3fe88ce13b519ced93087eeba7debi0",
+        "meta": {
+            "name": "Qoutiros",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can obliterate his enemies with swift, electrifying precision."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storm, and you are the dust in my wake."
+                }
+            ]
+        }
+    },
+    {
+        "id": "e5e708020f1c03f3097a03d9f60369d51f44afa676967aed0f71580db1de6410i0",
+        "meta": {
+            "name": "Firenil",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates advanced tech, creating powerful tools and machines that both defend and innovate."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Technology is my only allegianceneutrality through innovation."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c6c59592fa5cd89841d3efd6b52088db7ec693f164cd933cadfb87b036398a3ai0",
+        "meta": {
+            "name": "Ostano",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Cilo-4200"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates unstable energy, creating destructive shockwaves and destabilizing structures around him."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Chaos is my ally, and in its fury, I reign."
+                }
+            ]
+        }
+    },
+    {
+        "id": "b011b03e54275a64064489792ff5228ada0ce396741969ecb2f0826f1ab93cbfi0",
+        "meta": {
+            "name": "Ulrium",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates atmospheric pressure and winds, creating massive storms."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The storm is my command, and the winds carry my will."
+                }
+            ]
+        }
+    },
+    {
+        "id": "386a493ed60ce770f7c1e696e30c09c520e3bb9899d27230070e03cf05473bfei0",
+        "meta": {
+            "name": "Cataris",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls lightning and atmospheric energy, harnessing it to create devastating electrical storms."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storms fury, the spark in the chaos."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c1550c837d760c3c7d0899b28c4f75bee414b581d3e7beba1ff42fc6db542195i0",
+        "meta": {
+            "name": "Volir",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Creating powerful shields of molten plasma."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the fire within the storm, the ember that never fades."
+                }
+            ]
+        }
+    },
+    {
+        "id": "d59c726171f32b687a0eadfbe4e9d554e0132d9c8b8556793b1f45c011a28f0ei0",
+        "meta": {
+            "name": "Wendos",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls the winds and manipulate atmospheric pressure, creating powerful storms."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storm, the pulse of the winds. To resist me is to defy the very breath of Octornis."
+                }
+            ]
+        }
+    },
+    {
+        "id": "0375a3b657ac88d18e8a1693eac116b1ece1f86a61fabd31f0082a2c86664955i0",
+        "meta": {
+            "name": "Asandrox",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Creates devastating cyclones and shield himself from harm."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "With every storm, I grow stronger. You cannot silence the winds of Octornis."
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d814b933c5a1e0c609ed76ea99d2714faa6ac419258682ef388e8848546c5dci0",
+        "meta": {
+            "name": "Kitera",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Bends light and manipulate gases, creating stunning illusions and powerful atmospheric mirages."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Reality is merely the canvas upon which I paint my illusions."
+                }
+            ]
+        }
+    },
+    {
+        "id": "0d8c65b4c0ec0592d484636a46be95974e56a1ad8a37245977f0f4701ff1831ci0",
+        "meta": {
+            "name": "Blorast",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Releasing massive bursts of lightning, harnessing the power of Octornis storms to devastate anything."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storm that breathes life into the chaos. "
+                }
+            ]
+        }
+    },
+    {
+        "id": "ad5ec77e797eb174e3ecb5d353ac5db4d214756fc36afab07109f0ead763a7a6i0",
+        "meta": {
+            "name": "Taneros",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Octor "
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates ice and frost, creating barriers and icy weapons."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Cold is not the absence of warmth, but the presence of unyielding strength."
+                }
+            ]
+        }
+    },
+    {
+        "id": "aaf2c90fae0da3f28fcf04c10b1f88d313b7db3c5c6b30d48fe70667158a82fci0",
+        "meta": {
+            "name": "Dirtono",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Summons stone barriers and massive boulders."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the stone and the roots, the force that shapes the earth."
+                }
+            ]
+        }
+    },
+    {
+        "id": "65234cdf60c0d1f91528c947ea5a114d3055ee5ade12cfa7d5d40f273cee7b21i0",
+        "meta": {
+            "name": "Oyran",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Capable of summoning massive stone barriers and boulders."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "From the roots of Terrari, I rise, unyielding and unbroken."
+                }
+            ]
+        }
+    },
+    {
+        "id": "f9aa55249c07793189d2d64e9014b3098c833b24d4a23d4b5e44c47866b08469i0",
+        "meta": {
+            "name": "Sotarta",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Accelerates plant growth and controls vegetation, using nature for both defense and offense."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the dance of vines and leaves, I find strength. Nature bends to my will, and with it, I shall guard Terrari."
+                }
+            ]
+        }
+    },
+    {
+        "id": "af6aa900ba04d5829eb19c5cf85dc63631bbaea1743c84d07493f9557bbb6cfci0",
+        "meta": {
+            "name": "Wortena",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Accelerates plant growth and control vegetation, shaping the natural world as both a shield and a weapon."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the breath of the forest, the heartbeat of the planet. "
+                }
+            ]
+        }
+    },
+    {
+        "id": "d8257c89cae49419ce9ad90782cba57ce3d19c673b8fe823216627b488af6dd6i0",
+        "meta": {
+            "name": "Yeniri",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Camouflages and energy bursts for stealth and stunning attacks."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the silence of the forest, I am both shadow and lightunseen, yet always present."
+                }
+            ]
+        }
+    },
+    {
+        "id": "155a7307e4b30c07079f9d19bd95711fd7837cc9e2a77878c0b2bdfce20c5a6ai0",
+        "meta": {
+            "name": "Dravokar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Harnesses chaotic energy to crush enemies and bend the very fabric of reality."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In my dominion, only chaos prevails. Bend to my will or be consumed by it."
+                }
+            ]
+        }
+    },
+    {
+        "id": "7fa554063b32022f24d474ea1bb93cf271243a57664ee79a5dfff8e62590905ci0",
+        "meta": {
+            "name": "Malvoria",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates chaotic energy to warp reality and command dark forces."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the shadows, I thrive. Chaos is my crown, and destruction my kingdom."
+                }
+            ]
+        }
+    },
+    {
+        "id": "a124f356c7d3f18ae27d6796322d2750f585187c84ea3c91636d3863bddbdad6i0",
+        "meta": {
+            "name": "Vorathor",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Harnesses raw, chaotic energy to unleash devastating attacks, warping reality and causing destruction."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the storm that consumes worlds, the shadow that devours hope."
+                }
+            ]
+        }
+    },
+    {
+        "id": "d9c9891a6c4347827f0c3814d3cb329e9e8369f7f0378884c38a5ff65a2b6e3bi0",
+        "meta": {
+            "name": "Aserzox",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Channels the natural energy of plants and animals to heal and empower allies."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Through the pulse of the earth, I restore balance. Natures strength flows through me."
+                }
+            ]
+        }
+    },
+    {
+        "id": "657b25157f9846bf6acb09c7c61aab1de7a55fb4bfec8f47ee02420d1256fd2fi0",
+        "meta": {
+            "name": "Crierzox",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Corrupts natural energy, transforming it into chaotic forces that destroy and control life."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Where life flourishes, I sow decay. In my grasp, nature becomes my weapon."
+                }
+            ]
+        }
+    },
+    {
+        "id": "06136a4bd6180c294f152e830dcbed5ab3db7baff3607319c0aaa071a702f8abi0",
+        "meta": {
+            "name": "Firala",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Terrari"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Harnesses natural energy to restore life, heal the wounded, and empower the forces of nature."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Within the pulse of life, I thrive. I am the breath of nature, the force that binds the world together."
+                }
+            ]
+        }
+    },
+    {
+        "id": "4bd94281647d95ea95b5f4948be6a8ed0bb68f8a8a3d51010201e707ce9a024ci0",
+        "meta": {
+            "name": "Circer",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Tempestaris"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls the speed and direction of winds, creating micro-tornadoes."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank On OKX"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The wind is my ally, the storm my weapon. Try to stand your ground when the tempest chooses me."
+                }
+            ]
+        }
+    }
+]
